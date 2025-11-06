@@ -1,14 +1,22 @@
-## Hi there 👋
+<img src="setup.gif" alt="00xWolf">
 
-**moaaz-abdelkarim/moaaz-abdelkarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```css
+┌[Mr.Muzaa@git]-(~)
+└> mefetch
+```
 
-Here are some ideas to get you started:
+ ```css
+ Mr.Muzaa@GitHub
+ ------------------------------------------------------------------------------
+ Name: Moaaz Abdel Karim
+ Nickname: Muzaa
+ Education: Graduated from *Faculty of Computers and Artificial Intelligence*
+ Department: Computer Science (CS)
+ University: El-Shrouk Academy  
+ Interests: ["DevOps", "Linux", "FOSS"]
+```
+ - [![GitHubFollowers: moaaz-abdelkarim](https://img.shields.io/github/followers/moaaz-abdelkarim?style=social)](https://github.com/moaaz-abdelkarim)
+[![GitHubUserStars: moaaz-abdelkarim](https://img.shields.io/github/stars/moaaz-abdelkarim?style=social)](https://github.com/moaaz-abdelkarim)
+[![ProfileViews](https://komarev.com/ghpvc/?username=moaaz-abdelkarim&style=flat&color=blueviolet)](https://komarev.com/ghpvc/?username=moaaz-abdelkarim&style=flat&color=blueviolet)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ 
